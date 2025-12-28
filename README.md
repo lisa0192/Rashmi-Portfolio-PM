@@ -18,8 +18,8 @@ This repository is the source for my AI Product Manager (AI PM) portfolio. It sh
 
 ## Contact
 
-- Email: rashmi@example.com
-- LinkedIn: (add your profile link)
+- Email: rashyrawat@gmail.com
+- LinkedIn: www.linkedin.com/in/rashmirawat92
 
 ---
 
